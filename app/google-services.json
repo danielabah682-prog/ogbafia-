@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84902248813",
+    "project_id": "ogbafia-nation",
+    "storage_bucket": "ogbafia-nation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84902248813:android:cf4f86694026d314161a64",
+        "android_client_info": {
+          "package_name": "com.ogbafia.nation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbksJokuN-NC2WmwJigu0qo5fzeV0kxRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
